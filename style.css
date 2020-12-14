@@ -1,0 +1,88 @@
+body{
+text-align: center;
+}
+#p1{
+font-size:20px;
+}
+#p2{
+font-size:20px;
+}
+#a{
+margin-right: 1300px;
+}
+#b{
+margin-right: 1300px;
+}
+.line{
+height: 6px;
+background: #000;
+width:50px;
+margin: 8px auto;
+}
+#image1{
+border-radius: 0%;
+width:200px;
+margin-bottom: 150px;
+margin-left:60x;
+}
+#firstpage{
+background-color: yellow;
+width: 1600px;
+height: 300px;
+}
+#about{
+background-color: lime;
+width: 1400px;
+height: 200px;
+padding: 50px;
+}
+#Myfavouritecricketplayer{
+background-color: cyan;
+width: 1400px;
+height: 200px;
+padding: 50px;
+}
+#trophy{
+background-color: orangered;
+width: 1400px;
+height:300px;
+padding: 50px;
+}
+
+#image2{
+width: 200px;
+margin-right: 1300px; 
+}
+.links {
+    float:right;	
+    color:blueviolet;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    font-family: 'Lemonada', cursive;
+    font-size: 20px;
+}
+.links:hover {
+    background-color:lightpink;
+	font-size: 23px;
+}
+.menu {
+   
+    list-style:none;
+    font-family:fantasy;
+    position:absolute;
+    top:0px;
+    right: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+#bestbowlersintheworld{
+background-color: lightblue;
+width: 1400px;
+height: 200px;
+padding: 50px;
+}
+#p3{
+font-size: 30px;
+}
